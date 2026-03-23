@@ -1,4 +1,4 @@
-# Kaggle Dataset Analyzer
+# Dataset Analyzer
 
 A Streamlit dashboard for uploading, cleaning, analyzing, and visualizing Kaggle datasets.
 
