@@ -50,12 +50,10 @@ No coding. No setup overhead. Just upload and explore.
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots of your app here — upload to the repo under `/assets/` and reference them below)*
 
 | Landing Page | Cleaning Pipeline | Visualizations |
 |---|---|---|
-| ![Landing](assets/landing.png) | ![Cleaning](assets/cleaning.png) | ![Viz](assets/viz.png) |
-
+| ![Landing](Landing.png) | ![Cleaning](Cleaning.png) | ![Viz](viz.png) |
 ---
 
 ## 🚀 Features
